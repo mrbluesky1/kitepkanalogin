@@ -1,0 +1,29 @@
+.parent_recommendation {
+  padding: 100px 0px;
+}
+.parent_recommendation .child_recommendation .mainText_recommendation {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+.parent_recommendation .child_recommendation .mainText_recommendation span {
+  font-family: "Pacifico";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 125.3%;
+  color: #FF4004;
+}
+.parent_recommendation .child_recommendation .mainText_recommendation h2 {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 125.3%;
+  color: #000000;
+}
