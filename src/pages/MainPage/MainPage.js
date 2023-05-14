@@ -10,7 +10,6 @@ const MainPage = () => {
       <HeaderMain />
       <Recommendation />
       <ManasPart />
-      <Footer />
     </div>
   );
 };
